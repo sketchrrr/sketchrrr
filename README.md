@@ -1,37 +1,73 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/你的用户名" target="_blank">你的名字</a> 👋
-
-### 🚀 Full Stack Developer | 🛠️ Open Source Enthusiast | ✍️ Tech Writer
-
-<br/>
-
-<!-- 技术栈图标 -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,nodejs,python,go,docker,aws,mysql,redis,vscode,git&perline=8" />
+<!-- 1. 顶部打字机动画：保留动态感，但内容保持客观陈述 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello world;Irobotor;A software engineer who knows a little about hardware;Exploring+AI+Agents+&+Hardware...&center=true&width=500&height=50&color=555555&vCenter=true&size=25" alt="Typing SVG" />
 </a>
 
 <br/>
+
+<!-- 简短签名 -->
+<p>
+  <em>Explore the gap between virtual and reality.</em>
+</p>
+
 <br/>
 
-<!-- 动态统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="languages" height="160px"/>
+<!-- 2. 技术栈图标：视觉核心，保持丰富度 -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,spring,flask,nodejs,express,vue,mysql,postgres,redis,mongodb,linux,androidstudio,docker,git,vscode,idea&perline=10" />
+</a>
+
+</div>
 
 <br/>
 
 ---
 
-### 📬 Connect with me
+### 💻 Technical Background
 
-<a href="https://linkedin.com/in/你的ID" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/你的ID" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:你的邮箱@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+- **Backend & Web**
+  <br> Developing web applications with **Spring Boot**, **Flask**, and **Node.js**. Using **Vue 3** for frontend interfaces.
+
+- **Embedded & IoT**
+  <br> Working with **ESP32** microcontrollers using **ESP-IDF (C++)**. Focusing on hardware control and connectivity.
+
+- **Android & Security**
+  <br> Creating Android applications and automation scripts. Researching **Reverse Engineering** techniques and app internals.
+
+- **AI & Data**
+  <br> Integrating AI Agents with hardware devices. Experienced with **SQL** (MySQL/PostgreSQL) and **NoSQL** (Redis/MongoDB) databases.
+
+<br/>
+
+---
+
+### 📈 Activity & Contributions
+
+<div align="center">
+  
+<!-- 3. 贪吃蛇动画：这是你想要的动态效果，展示代码提交记录 -->
+<!-- 注意：这个动画需要配置 GitHub Actions 才会动，配置方法见下方说明 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sketchrrr/sketchrrr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sketchrrr/sketchrrr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sketchrrr/sketchrrr/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<br/>
+
+<!-- 4. 基础统计：使用极简风格 (graywhite) -->
+<table style="border: none;">
+<tr>
+  <td align="center" style="border: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sketchrrr&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000" alt="sketchrrr's stats" />
+  </td>
+  <td align="center" style="border: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchrrr&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
+  </td>
+</tr>
+</table>
 
 </div>
