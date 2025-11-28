@@ -14,11 +14,15 @@
 
 <!-- 2. 技术栈图标：视觉核心，保持丰富度 -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,spring,flask,nodejs,express,vue,mysql,postgres,redis,mongodb,linux,androidstudio,docker,git,vscode,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,spring,flask,nodejs,express,vue,mysql,postgres,redis,mongodb,linux,androidstudio,docker,git,vscode,idea&perline=8" />
 </a>
 
 </div>
 
+<br/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sketchrrr&theme=github" alt="profile details" />
+</div>
 <br/>
 
 ---
@@ -60,10 +64,7 @@
 <table style="border: none;">
 <tr>
   <td align="center" style="border: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sketchrrr&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000" alt="sketchrrr's stats" />
-  </td>
-  <td align="center" style="border: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketchrrr&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&langs_count=6" alt="top langs" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sketchrrr&theme=github-compact&hide_border=true" alt="activity graph" />
   </td>
 </tr>
 </table>
