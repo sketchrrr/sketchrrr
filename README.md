@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. 顶部打字机动画：保留动态感，但内容保持客观陈述 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+world;Irobotor;Exploring%2BAI%2BAgents%2B%26%2BHardware..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+world;Irobotor;......" alt="Typing SVG" /></a>
 
 <br/>
 
